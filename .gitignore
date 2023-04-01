@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+[Hh]istory*/
+__Previews*/
+Project Logs*/
+Project Outputs*/
